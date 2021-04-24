@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19c5fb03-cbd9-4406-8ab2-2ce153c3e6dc" name="Default Changelist" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/main/java/comunicacion/Alfabeto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comunicacion/Fabula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comunicacion/Libro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comunicacion/Periodico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comunicacion/Tesis.java" afterDir="false" />
+    <list default="true" id="19c5fb03-cbd9-4406-8ab2-2ce153c3e6dc" name="Default Changelist" comment="fin">
+      <change beforePath="$PROJECT_DIR$/src/main/java/comunicacion/Alfabeto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comunicacion/Alfabeto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,6 +167,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="fin" />
+    <option name="LAST_COMMIT_MESSAGE" value="fin" />
   </component>
 </project>

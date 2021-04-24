@@ -22,14 +22,14 @@ public class Alfabeto extends Pictograma{
     }
 
     public String toString(){
-        String [] alfabeto = new String[letras.length];
-        for(int i = 1; i <= letras.length; i++) {
-            if (i == letras.length) {
-                alfabeto[i] = letras[i];
-            } else {
-                alfabeto[i] = letras[i] + ", ";
+        String letra = "";
+        for(int i = 0; i < letras.length; i++){
+            if(i == letras.length - 1){
+                letra += letras[i];
+                break;
             }
+            letra += letras[i] + ", ";
         }
-        return Arrays.toString(alfabeto);
+        return letra;
     }
 }
